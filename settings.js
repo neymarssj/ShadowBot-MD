@@ -8,7 +8,7 @@ const baileys = require('@whiskeysockets/baileys');
  const chalk = require('chalk')  
   
  global.owner = [ 
- ["584125778026", "Owner", true] 
+ ["59896110714", "Owner", true] 
    ] 
   
  global.botname = "𝐒𝐡𝐚𝐝𝐨𝐰𝐁𝐨𝐭-𝐕𝟓-𝐌𝐃" 
